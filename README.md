@@ -5,7 +5,7 @@ Done (DS with algorithms):
 
 - [ ] Arrays (sorting, searching)
 - [x] Linked List
-- [ ] Doubly Linked List
+- [x] Doubly Linked List
 - [ ] Circular Linked List
 - [ ] Stack
 - [ ] Queue
